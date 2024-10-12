@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Habeebbur-Rahaman
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning c programing language 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security 
+- 🌱 I’m currently learning C programing language 
 - 📫 How to reach me ...
 - Email : habeebbur874@gmail.com
 <!---
